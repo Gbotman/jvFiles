@@ -1,0 +1,9 @@
+sample git hub codes
+
+git init - > git hub initialization
+
+git add -A -> to add all files
+
+git commit -m "Your message" -> your message
+
+git push --set-upstream https://github.com/Gbotman/jvFiles.git master
